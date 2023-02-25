@@ -1,4 +1,4 @@
-# SUMMARY Introduction to Algorithm and Golang
+# SUMMARY Version System Control and Branch Management
 
 - Aulia Retno Ekawati
 - Universitas Sahid Surakarta
